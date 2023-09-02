@@ -1,6 +1,6 @@
 # Repositorio1 - Loja do Git
- Meu primeiro repositorio
- (OBJETIVO APP) Esse programa tem o objetivo de cadastrar produtos e armazenar em arquivos txt.
+Meu primeiro repositorio
 
- 
- Desenvolvido por PET-UFC-RUSSAS
+(OBJETIVO APP) Esse programa tem o objetivo de cadastrar produtos e armazenar em arquivos txt.
+
+Desenvolvido por PET-UFC-RUSSAS
